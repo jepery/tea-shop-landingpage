@@ -1,14 +1,18 @@
-h1, h2, p {
-    text-align: center;
-  }
-
-body{
-    background-color:brown;
+h1,
+h2,
+p {
+  text-align: center;
 }
 
-.tea-menu{
-    width: 80%;
-    background-color: bisque;
-    margin-left: auto;
-    margin-right: auto;
+body {
+  background-image: url(https://raw.githubusercontent.com/jepery/gaming-sensei/main/tea.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.tea-menu {
+  width: 80%;
+  background-color: rgba(255, 228, 196, 0.411);
+  margin-left: auto;
+  margin-right: auto;
 }
