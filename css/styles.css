@@ -29,6 +29,7 @@ body {
 }
 
 .tea-price{
+    color: white;
     width: 50%;
     background-color: rgb(122, 107, 84);
     text-align: right;
