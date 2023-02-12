@@ -25,13 +25,13 @@ body {
   display: inline-block;
 }
 
-.tea-flavor {
+.tea-flavor,.tea-collections {
   width: 50%;
   background-color: azure;
   text-align: left;
 }
 
-.tea-price {
+.tea-price,.collections-price {
   color: white;
   width: 50%;
   background-color: rgb(122, 107, 84);
