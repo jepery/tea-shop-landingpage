@@ -48,6 +48,7 @@ body {
 .tea-items p {
   /* background-color: azure; */
   display: inline-block;
+  margin: 5px 0px;
 }
 
 .tea-flavor,.tea-collections {
