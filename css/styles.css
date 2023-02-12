@@ -16,7 +16,14 @@ h2{
 
 hr{
     height: 2px;
-    background-color: rgba(0, 0, 0, 0.555);
+    background-color: beige;
+    border-color: black;
+}
+
+.title-line{
+    box-shadow: 1px 29px 6px -5px rgba(0,0,0,0.83);
+-webkit-box-shadow: 1px 29px 6px -5px rgba(0,0,0,0.83);
+-moz-box-shadow: 1px 29px 6px -5px rgba(0,0,0,0.83);
 }
 
 body {
