@@ -31,13 +31,17 @@ body {
 
 .tea-flavor,.tea-collections {
   width: 50%;
-  background-color: azure;
+  /* background-color: azure; */
   text-align: left;
 }
 
 .tea-price,.collections-price {
   color: white;
   width: 50%;
-  background-color: rgb(122, 107, 84);
+  /* background-color: rgb(122, 107, 84); */
   text-align: right;
+}
+
+.established{
+    font-style: italic;
 }
