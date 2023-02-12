@@ -6,6 +6,14 @@ p {
   text-align: center;
 }
 
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
 body {
   background-image: url(https://raw.githubusercontent.com/jepery/gaming-sensei/main/tea.png);
   background-size: cover;
