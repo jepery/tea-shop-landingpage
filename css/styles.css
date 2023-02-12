@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
 h1,
 h2,
 p {
@@ -8,6 +10,7 @@ body {
   background-image: url(https://raw.githubusercontent.com/jepery/gaming-sensei/main/tea.png);
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: "Oswald", sans-serif;
 }
 
 .tea-menu {
@@ -17,20 +20,20 @@ body {
   margin-right: auto;
 }
 
-.tea-items p{
-    /* background-color: azure; */
-    display: inline-block;
+.tea-items p {
+  /* background-color: azure; */
+  display: inline-block;
 }
 
-.tea-flavor{
-    width: 50%;
-    background-color: azure;
-    text-align: left;
+.tea-flavor {
+  width: 50%;
+  background-color: azure;
+  text-align: left;
 }
 
-.tea-price{
-    color: white;
-    width: 50%;
-    background-color: rgb(122, 107, 84);
-    text-align: right;
+.tea-price {
+  color: white;
+  width: 50%;
+  background-color: rgb(122, 107, 84);
+  text-align: right;
 }
